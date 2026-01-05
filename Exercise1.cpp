@@ -5,7 +5,16 @@
 using namespace std;
 
 int main(){
-  cout<<"Hello World";
+  string word1;
+  word1 = "Hello";
+
+  string word2;
+  word2 = "World";
+
+  string sentence;
+  sentence = word1 + " " + word2;
+
+  cout<<sentence<<endl;
   
   return 0;
 }

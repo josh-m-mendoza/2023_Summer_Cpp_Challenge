@@ -1,0 +1,8 @@
+# macOS / C++ build artifacts
+*.dSYM/
+*.out
+*.exe
+*.o
+*.a
+*.so
+Exercise*
